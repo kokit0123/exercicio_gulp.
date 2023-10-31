@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "gulp-sass": "^5.1.0"
+  },
+  "devDependencies": {
+    "gulp-imagemin": "^7.1.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "name": "gulp",
+  "version": "1.0.0",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "images": "gulp compressImages",
+    "gulp": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
